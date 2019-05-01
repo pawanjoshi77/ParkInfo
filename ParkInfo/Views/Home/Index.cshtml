@@ -1,0 +1,43 @@
+﻿@model Location
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<link rel="stylesheet" href="site.css" type="text/css" />
+
+<body>
+    @using (Html.BeginForm("Index", "Home", FormMethod.Post, new { id = "submitForm" }))
+    {
+        <div class="mycontainer">
+
+            @Html.Label("Enter PostalCode")
+
+            @Html.TextBox("PostalCode", null, new { @class = "form-control" })
+
+            <hr />
+            <button type="submit" id="btnSubmit">Submit</button>
+        </div>
+        <div id="result"></div>
+    }
+
+    @if (Model != null)
+    {
+        <div>
+            <div class="row">
+                <span>LOCATION_NAME: </span>@Model.LocationName
+            </div>
+            <div class="row">
+                <span>ADDRESS: </span>@Model.Address
+            </div>
+            <div class="row">
+                <span>POSTAL CODE: </span>@Model.PostalCode
+            </div>
+        </div>
+
+    }
+
+
+
+
+</body>

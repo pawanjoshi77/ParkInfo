@@ -1,0 +1,12 @@
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\bin\Debug\netcoreapp2.0\ParkInfo.deps.json
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\bin\Debug\netcoreapp2.0\ParkInfo.runtimeconfig.json
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\bin\Debug\netcoreapp2.0\ParkInfo.runtimeconfig.dev.json
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\bin\Debug\netcoreapp2.0\ParkInfo.dll
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\bin\Debug\netcoreapp2.0\ParkInfo.pdb
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\obj\Debug\netcoreapp2.0\ParkInfo.csproj.CoreCompileInputs.cache
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\obj\Debug\netcoreapp2.0\ParkInfo.AssemblyInfoInputs.cache
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\obj\Debug\netcoreapp2.0\ParkInfo.AssemblyInfo.cs
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\obj\Debug\netcoreapp2.0\ParkInfo.dll
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\obj\Debug\netcoreapp2.0\ParkInfo.pdb
+C:\Users\pawan\source\repos\ParkInfo\ParkInfo\obj\Debug\netcoreapp2.0\ParkInfo.csprojAssemblyReference.cache
